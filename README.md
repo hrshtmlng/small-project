@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Malang</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react,angular**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **malangharshit@gmail.com**
 
